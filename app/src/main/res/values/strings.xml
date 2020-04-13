@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">prueba_scrollable</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="descripcion_burriana">La playa de Burriana, en Nerja, es considerada por muchos como la mejor playa del municipio malagueño. Posee una longitud de 800 metros de arena fina y dorada. En 2018 se le ha otorgado la "Q" de calidad.
+
+Aunque con un acceso difícil, no decepciona a nadie cuando baja hasta el final de la calle Filipinas por una empinada pendiente y se encuentra con este magnífico paisaje.
+
+Muy concurrida por turistas por su conocida fama, cuenta con un largo paseo marítimo en el que podrás encontrar numerosas y variopintas tiendas, restaurantes y chiringuitos. Su paseo marítimo recibe el nombre de Antonio Mercero, en honor al productor de la conocida serie de televisión de los años 80, Verano Azul, rodada en este municipio.
+
+Una playa que cuenta con todos los servicios, destacando especialmente el alquiler de náuticos como hidropedales, motos acuáticas, kayaks y hasta un centro de buceo con los que podrás disfrutar de un divertido y completo día de verano. Se recomienda la realización de rutas en kayak hacia las playas más cercanas como La Caleta de Maro.
+
+Un recorrido por las aguas cristalinas, en el que visitarás algunas de las cuevas cercanas, pasando por pequeñas cataratas que caen desde los acantilados. Una visión diferente y espectacular que no debes perderte.
+
+Como servicio curioso posee una biblioteca de playa, en la que podrás pedir prestado un libro para leer mientras disfrutas de tu día aportando exclusivamente algún tipo de identificación. Libros en diferentes idiomas como inglés, alemán, francés o italiano. Podrás donar tu libro cuando finalices tus vacaciones. Este servicio también existe en las playas de la Torrecilla y del Salón.</string>
+</resources>
